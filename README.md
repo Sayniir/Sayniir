@@ -18,11 +18,11 @@ I’ve already worked with local companies to create websites and small tools th
 
 | Area                 | Technologies & Tools                                                                 |
 |----------------------|---------------------------------------------------------------------------------------|
-| **Languages**        | C#, Java, Kotlin, Python, JavaScript, TypeScript                            |
-| **Frontend**         | HTML, CSS, React.js, Blazor, Flutter                                                  |
-| **Backend**          | Node.js, ASP.NET, Express.js, REST APIs, MVC                                          |
+| **Languages**        | C#, Java, Kotlin, Python, JavaScript,                             |
+| **Frontend**         | HTML, CSS, React.js,                                                |
+| **Backend**          | Node.js, Express.js, REST APIs, MVC                                          |
 | **AI / Logic**       | Python, Scikit-learn (basics), custom algorithmic systems                             |
-| **Mobile**           | Flutter, Kotlin (Android), C# Xamarin (basic)                                         |
+| **Mobile**           | Kotlin (Android), C# Xamarin (basic)                                         |
 | **Databases**        | SQL Server, SQLite, MySQL                                                             |
 | **Tools & Practices**| Git & GitHub, Visual Studio / VS Code, Figma, Agile methods, Responsive Design       |
 
