@@ -18,7 +18,7 @@ I’ve already worked with local companies to create websites and small tools th
 
 | Area                 | Technologies & Tools                                                                 |
 |----------------------|---------------------------------------------------------------------------------------|
-| **Languages**        | C#, Java, Kotlin, Python, JavaScript,                             |
+| **Languages**        | Java, Python, JavaScript,                         |
 | **Frontend**         | HTML, CSS, React.js,                                                |
 | **Backend**          | Node.js, Express.js, REST APIs, MVC                                          |
 | **AI / Logic**       | Python, Scikit-learn (basics), custom algorithmic systems                             |                                     |                                             |
