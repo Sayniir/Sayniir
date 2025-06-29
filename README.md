@@ -20,7 +20,7 @@ I’ve already worked with local companies to create websites and small tools th
 |----------------------|---------------------------------------------------------------------------------------|
 | **Languages**        | Java, Python, JavaScript,                         |
 | **Frontend**         | HTML, CSS, React.js,                                                |
-| **Backend**          | Node.js, Express.js, REST APIs, MVC                                          |
+| **Backend**          | Node.js, Express.js, REST APIs, Python                                       |
 | **AI / Logic**       | Python, Scikit-learn (basics), custom algorithmic systems                             |                                     |                                             |
 | **Tools & Practices**| Git & GitHub, Visual Studio / VS Code, Figma, Agile methods, Responsive Design       |
 
