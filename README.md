@@ -6,7 +6,7 @@
 
 ---
 
-High school student in Sétif, Algeria.  
+High school student in Bejaia, Algeria.  
 I teach myself how to build things — websites, tools, AI experiments.  
 Working on a micro-agency for local businesses.  
 Everything I know, I learned by doing.
@@ -26,9 +26,9 @@ Everything I know, I learned by doing.
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=swift&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sayniir&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sayniir&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayniir&theme=swift&hide_border=true&layout=compact)
 
 ---
 
@@ -38,7 +38,7 @@ Everything I know, I learned by doing.
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rynaskebdi.pro@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sayniir)
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sayniir&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
