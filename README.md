@@ -7,7 +7,7 @@
 ---
 
 High school student in Bejaia, Algeria.  
-I teach myself how to build things websites, tools, AI experiments.  
+I teach myself how to build things - websites, tools, AI experiments.  
 Working on a micro-agency for local businesses.  
 Everything I know, I learned by doing.
 
